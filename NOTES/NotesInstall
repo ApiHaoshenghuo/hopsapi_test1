@@ -21,10 +21,10 @@ HTMLTestRunnerChinese
 安装
 pyyaml
 appium
-pip installpyyaml Appium-Python-Client -i  http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
-pip install Appium-Python-Client -i  http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
-pip install cryptography pyOpenSSL certifi -i  http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
-pip install pyOpenSSL-19.1.0-py2.py3-none-any.whl -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
+pip3 installpyyaml Appium-Python-Client -i  http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+pip3 install Appium-Python-Client -i  http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+pip3 install cryptography pyOpenSSL certifi -i  http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+pip3 install pyOpenSSL-19.1.0-py2.py3-none-any.whl -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
 可用链接
 pip install pymysql requests xlrd xlsxwriter openpyxl pymongo selenium xlwt xlutils pyyaml BeautifulReport -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
 pip install jsonpath -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
